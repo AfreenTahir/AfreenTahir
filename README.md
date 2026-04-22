@@ -1,7 +1,10 @@
 
 <p align="center">
-	<img src="https://img.shields.io/badge/AFREEN%20TAHIR-%F0%9F%95%BF%F0%9F%95%BF%20Spidey%20Vibes-8B0000?style=for-the-badge&logo=github&logoColor=white" alt="Afreen Tahir" />
-	<img src="https://img.shields.io/badge/BS%20BDA-Data%20Driven-000000?style=for-the-badge&logo=analytics&logoColor=white" alt="BS BDA" />
+</p>
+
+<p align="center">
+	<img src="assets/banner.svg" alt="Afreen banner" width="900" />
+</p>
 </p>
 
 <p align="center">
@@ -23,8 +26,32 @@ I am **Afreen Tahir** — a Business Development professional with a BS in Busin
 
 ## Contact
 
-- Email: [afreentahir938@gmail.com](mailto:afreentahir938@gmail.com)
-- LinkedIn: [Afreen Tahir](https://www.linkedin.com/in/afreen-tahir-989483404/)
+-
+<div align="center">
+	<table>
+		<tr>
+			<td align="center" style="padding:12px; border:2px solid #2a0000; background:#080404; border-radius:12px">
+				<img src="assets/spider.svg" width="64" alt="spider" />
+			</td>
+			<td style="width:18px"></td>
+			<td style="padding-left:6px; vertical-align:middle">
+				<strong style="color:#ffdede">Contact</strong>
+				<div style="margin-top:8px">
+					<a href="mailto:afreentahir938@gmail.com" style="text-decoration:none">
+						<img src="assets/email.svg" width="36" style="vertical-align:middle" alt="email" />
+						<span style="color:#f9dede; margin-left:8px">afreentahir938@gmail.com</span>
+					</a>
+				</div>
+				<div style="margin-top:8px">
+					<a href="https://www.linkedin.com/in/afreen-tahir-989483404/" target="_blank" rel="noopener" style="text-decoration:none">
+						<img src="assets/linkedin.svg" width="36" style="vertical-align:middle" alt="linkedin" />
+						<span style="color:#f9dede; margin-left:8px">LinkedIn / Afreen Tahir</span>
+					</a>
+				</div>
+			</td>
+		</tr>
+	</table>
+</div>
 
 ---
 
