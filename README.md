@@ -21,38 +21,54 @@
   <img src="assets/pastel-divider.svg" alt="" width="80%" />
 </p>
 
-## Hi, I'm Afreen
+<p align="center">
+  <img src="assets/heading-about.svg" alt="About Me" width="72%" />
+</p>
 
-I like turning fuzzy ideas into clear plans, useful products, and data-backed decisions. My work sits between growth, analytics, marketing, and software: a soft mix of strategy and execution.
+I work at the intersection of growth, analytics, and product thinking. I enjoy turning messy ideas into clear strategies, useful tools, and simple user experiences backed by data.
 
-## What I'm Into
+My style is calm, organized, and practical: understand the problem, find the pattern, build the next useful step.
 
-| Area | What I enjoy |
+<p align="center">
+  <img src="assets/heading-focus.svg" alt="Professional Focus" width="76%" />
+</p>
+
+| Focus Area | What I Bring |
 |---|---|
-| Growth & Marketing | Positioning, campaigns, user journeys, and business development |
-| Data Analytics | Finding patterns, measuring impact, and making decisions clearer |
-| Software | Building useful apps, automations, and clean user experiences |
-| Strategy | Turning messy problems into simple next steps |
+| Business Development | Market research, outreach, positioning, and growth opportunities |
+| Marketing Strategy | Campaign planning, user journeys, content direction, and brand thinking |
+| Data Analytics | Pattern finding, reporting, insights, and clearer decision-making |
+| Software Projects | Clean interfaces, useful automation, and practical desktop/web apps |
 
-## Current Focus
+<p align="center">
+  <img src="assets/heading-work.svg" alt="Current Work" width="74%" />
+</p>
 
-- Building student-friendly productivity tools.
-- Exploring data-informed marketing and business growth.
-- Improving my software engineering portfolio.
-- Creating clean, simple experiences that feel easy to use.
+- Building student-friendly productivity tools, including **Notes Merger**.
+- Strengthening my software engineering and product portfolio.
+- Exploring how data can make marketing and business decisions sharper.
+- Creating minimal, polished user experiences that feel easy to use.
 
 <p align="center">
   <img src="assets/tiny-doodles.svg" alt="minimal pastel doodles" width="85%" />
 </p>
 
-## Tools & Skills
+<p align="center">
+  <img src="assets/heading-toolkit.svg" alt="Toolkit" width="62%" />
+</p>
 
 `Business Development` &middot; `Marketing Strategy` &middot; `Data Analytics` &middot; `Python` &middot; `C++` &middot; `JavaScript` &middot; `Rust` &middot; `Tauri` &middot; `GitHub`
 
-## A Tiny Note
-
-I care about work that feels clear, thoughtful, and useful. If it helps people save time, understand something better, or make a smarter decision, I'm interested.
+<p align="center">
+  <img src="assets/heading-contact.svg" alt="Contact" width="60%" />
+</p>
 
 <p align="center">
-  <b>Thanks for visiting my little corner of GitHub.</b>
+  <a href="mailto:afreentahir938@gmail.com"><b>afreentahir938@gmail.com</b></a>
+  <br />
+  <a href="https://www.linkedin.com/in/afreen-tahir-989483404/"><b>LinkedIn / Afreen Tahir</b></a>
+</p>
+
+<p align="center">
+  <b>Thanks for visiting my GitHub profile.</b>
 </p>

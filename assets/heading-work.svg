@@ -1,0 +1,6 @@
+<svg width="900" height="86" viewBox="0 0 900 86" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="197" y="11" width="506" height="64" rx="32" fill="#FBF8FF" stroke="#D9D0FF" stroke-width="3"/>
+  <path d="M244 28L252 45L271 47L257 59L261 77L244 67L227 77L231 59L217 47L236 45L244 28Z" fill="#D9D0FF"/>
+  <path d="M656 28L664 45L683 47L669 59L673 77L656 67L639 77L643 59L629 47L648 45L656 28Z" fill="#D9D0FF"/>
+  <text x="450" y="56" text-anchor="middle" font-family="Trebuchet MS, Arial Rounded MT Bold, Arial, sans-serif" font-size="34" font-weight="900" fill="#6B5AA8" stroke="#FFFFFF" stroke-width="5" paint-order="stroke">Current Work</text>
+</svg>
