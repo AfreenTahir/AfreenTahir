@@ -1,88 +1,58 @@
-<div align="center">
+<p align="center">
+  <img src="assets/banner.svg" alt="Afreen Tahir pastel profile banner" width="100%" />
+</p>
 
-<img src="assets/banner.svg" alt="Afreen Tahir Banner" width="100%" />
+<p align="center">
+  <b>Business Development</b> &middot;
+  <b>Marketing Strategy</b> &middot;
+  <b>Data Analytics</b> &middot;
+  <b>Software Engineering</b>
+</p>
 
-<br>
+<p align="center">
+  <a href="mailto:afreentahir938@gmail.com">Email</a>
+  &middot;
+  <a href="https://www.linkedin.com/in/afreen-tahir-989483404/">LinkedIn</a>
+  &middot;
+  <a href="https://github.com/AfreenTahir">GitHub</a>
+</p>
 
-<img src="assets/animation.svg" alt="Spider Web Animation" width="200" />
+<p align="center">
+  <img src="assets/pastel-divider.svg" alt="" width="80%" />
+</p>
 
-### 🕷️ System Online: Welcome to my web. 🕸️
+## Hi, I'm Afreen
 
-**Business Development | Marketing Strategy | Data Analytics | Software Engineering**
+I like turning fuzzy ideas into clear plans, useful products, and data-backed decisions. My work sits between growth, analytics, marketing, and software: a soft mix of strategy and execution.
 
-</div>
+## What I'm Into
 
----
+| Area | What I enjoy |
+|---|---|
+| Growth & Marketing | Positioning, campaigns, user journeys, and business development |
+| Data Analytics | Finding patterns, measuring impact, and making decisions clearer |
+| Software | Building useful apps, automations, and clean user experiences |
+| Strategy | Turning messy problems into simple next steps |
 
-### 🚀 About Me
+## Current Focus
 
-I am a **Business Development professional** with a **BS in Business Data Analytics**. 
-I specialize in spinning a web between **marketing**, **growth strategy**, and **technical execution**. 
+- Building student-friendly productivity tools.
+- Exploring data-informed marketing and business growth.
+- Improving my software engineering portfolio.
+- Creating clean, simple experiences that feel easy to use.
 
-My goal? To build data-informed solutions and drive measurable impact without getting caught in the tangles.
+<p align="center">
+  <img src="assets/tiny-doodles.svg" alt="minimal pastel doodles" width="85%" />
+</p>
 
----
+## Tools & Skills
 
-### 💻 My Arsenal
+`Business Development` &middot; `Marketing Strategy` &middot; `Data Analytics` &middot; `Python` &middot; `C++` &middot; `JavaScript` &middot; `Rust` &middot; `Tauri` &middot; `GitHub`
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <h3>📈</h3>
-        <b>Business & Growth</b><br>
-        Business Development<br>Marketing Strategy
-      </td>
-      <td align="center" width="25%">
-        <h3>🐍</h3>
-        <b>Python</b><br>
-        Data Analysis<br>Automation
-      </td>
-      <td align="center" width="25%">
-        <h3>⚙️</h3>
-        <b>C++</b><br>
-        Software Dev<br>System Arch
-      </td>
-      <td align="center" width="25%">
-        <h3>🕸️</h3>
-        <b>Spider Senses</b><br>
-        Trend Spotting<br>Problem Solving
-      </td>
-    </tr>
-  </table>
-</div>
+## A Tiny Note
 
----
+I care about work that feels clear, thoughtful, and useful. If it helps people save time, understand something better, or make a smarter decision, I'm interested.
 
-### 🕸️ Connect to my Network
-
-<div align="center">
-  <table style="border-collapse: collapse; border: none;">
-    <tr style="border: none;">
-      <td align="center" style="padding: 15px; border: 1px solid #3d0000; background: #0a0505; border-radius: 12px;">
-        <img src="assets/spider.svg" width="60" alt="spider icon" />
-      </td>
-      <td style="width: 20px; border: none;"></td>
-      <td style="padding-left: 10px; border: none; text-align: left;">
-        <h3 style="margin: 0; color: #ff4d4d;">Comm Link</h3>
-        <div style="margin-top: 10px;">
-          <a href="mailto:afreentahir938@gmail.com" style="text-decoration: none;">
-            <img src="assets/email.svg" width="24" style="vertical-align: middle;" alt="email" />
-            <span style="color: #cccccc; margin-left: 10px; font-weight: bold;">afreentahir938@gmail.com</span>
-          </a>
-        </div>
-        <div style="margin-top: 10px;">
-          <a href="https://www.linkedin.com/in/afreen-tahir-989483404/" target="_blank" rel="noopener" style="text-decoration: none;">
-            <img src="assets/linkedin.svg" width="24" style="vertical-align: middle;" alt="linkedin" />
-            <span style="color: #cccccc; margin-left: 10px; font-weight: bold;">LinkedIn / Afreen Tahir</span>
-          </a>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <br>
-  <p><i>"With great data, comes great responsibility."</i></p>
-</div>
+<p align="center">
+  <b>Thanks for visiting my little corner of GitHub.</b>
+</p>

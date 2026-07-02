@@ -1,37 +1,35 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="900" height="300">
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="360" rx="42" fill="#FFF8FB"/>
+  <circle cx="106" cy="78" r="44" fill="#DDF7F1"/>
+  <circle cx="1088" cy="76" r="52" fill="#FDECCF"/>
+  <circle cx="1008" cy="278" r="38" fill="#E8E3FF"/>
+  <circle cx="198" cy="284" r="35" fill="#DCEEFF"/>
+
+  <path d="M93 231C78 231 66 219 66 204C66 189 78 177 93 177C100 157 119 144 141 144C167 144 189 162 195 186C213 188 227 203 227 221C227 241 211 257 191 257H95" stroke="#88C9BF" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M1001 110C987 110 976 99 976 85C976 71 987 60 1001 60C1008 42 1025 30 1045 30C1069 30 1089 47 1094 69C1110 71 1123 85 1123 102C1123 120 1108 135 1090 135H1003" stroke="#B5A7F5" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <path d="M304 81L316 108L345 111L323 130L329 159L304 144L279 159L285 130L263 111L292 108L304 81Z" fill="#FFD6E8"/>
+  <path d="M899 196L908 216L930 219L913 233L918 255L899 244L880 255L885 233L868 219L890 216L899 196Z" fill="#BDEDE5"/>
+  <path d="M157 93C157 93 176 82 190 96C204 110 191 129 191 129" stroke="#F4A7C7" stroke-width="8" stroke-linecap="round"/>
+  <path d="M1052 213C1052 213 1071 202 1085 216C1099 230 1086 249 1086 249" stroke="#8BBDF2" stroke-width="8" stroke-linecap="round"/>
+
+  <g filter="url(#softShadow)">
+    <text x="600" y="167" text-anchor="middle" font-family="Trebuchet MS, Comic Sans MS, Arial Rounded MT Bold, sans-serif" font-size="86" font-weight="900" fill="#5B4B8A" stroke="#FFFFFF" stroke-width="13" paint-order="stroke">
+      Afreen Tahir
+    </text>
+  </g>
+  <text x="600" y="218" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="700" fill="#6E7783">
+    Business Data Analytics · Marketing Strategy · Software Engineering
+  </text>
+
+  <rect x="389" y="253" width="422" height="48" rx="24" fill="#FFFFFF" stroke="#F1CFE0" stroke-width="3"/>
+  <text x="600" y="285" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="21" font-weight="700" fill="#7E6DA8">
+    building soft, smart, data-informed things
+  </text>
+
   <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#050000" />
-      <stop offset="50%" stop-color="#140000" />
-      <stop offset="100%" stop-color="#330000" />
-    </linearGradient>
-    <pattern id="web" width="80" height="80" patternUnits="userSpaceOnUse">
-      <path d="M 0 0 L 80 80 M 80 0 L 0 80 M 40 0 L 40 80 M 0 40 L 80 40" stroke="#ff3333" stroke-width="0.5" stroke-opacity="0.1" />
-      <circle cx="40" cy="40" r="15" fill="none" stroke="#ff3333" stroke-width="0.5" stroke-opacity="0.1" />
-      <circle cx="40" cy="40" r="30" fill="none" stroke="#ff3333" stroke-width="0.5" stroke-opacity="0.1" />
-      <circle cx="40" cy="40" r="45" fill="none" stroke="#ff3333" stroke-width="0.5" stroke-opacity="0.1" />
-    </pattern>
-    <radialGradient id="glow" cx="20%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#ff0000" stop-opacity="0.2" />
-      <stop offset="100%" stop-color="#ff0000" stop-opacity="0" />
-    </radialGradient>
+    <filter id="softShadow" x="170" y="55" width="860" height="140" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#D7C9F6" flood-opacity="0.45"/>
+    </filter>
   </defs>
-  
-  <rect width="900" height="300" fill="url(#bg)" />
-  <rect width="900" height="300" fill="url(#web)" />
-  <rect width="900" height="300" fill="url(#glow)" />
-  
-  <!-- Sleek angled design overlay -->
-  <polygon points="0,300 0,0 450,0 350,300" fill="#000000" fill-opacity="0.7" />
-  <polygon points="430,0 470,0 370,300 330,300" fill="#cc0000" fill-opacity="0.8" />
-  <polygon points="480,0 490,0 390,300 380,300" fill="#ff4d4d" fill-opacity="0.5" />
-  
-  <!-- Text Elements -->
-  <text x="60" y="130" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="64" font-weight="900" fill="#ffffff" letter-spacing="3">AFREEN TAHIR</text>
-  <text x="60" y="180" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="22" font-weight="600" fill="#ff4d4d" letter-spacing="4">BUSINESS DATA ANALYTICS</text>
-  
-  <!-- Sleek separator line -->
-  <line x1="60" y1="210" x2="250" y2="210" stroke="#cc0000" stroke-width="3" />
-  
-  <text x="60" y="245" font-family="'Courier New', Courier, monospace" font-size="16" font-weight="bold" fill="#cccccc" letter-spacing="1">> Marketing Strategy | Python | C++</text>
 </svg>
