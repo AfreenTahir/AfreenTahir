@@ -1,75 +1,69 @@
 <svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1200" height="360" rx="34" fill="#080A0D"/>
-  <rect x="28" y="28" width="1144" height="304" rx="26" stroke="#EDEDED" stroke-opacity="0.18" stroke-width="2"/>
+  <rect width="1200" height="360" rx="34" fill="#07090D"/>
+  <rect x="30" y="30" width="1140" height="300" rx="28" stroke="#F4F4F4" stroke-opacity="0.16" stroke-width="2"/>
 
-  <g opacity="0.22">
-    <path d="M92 88H278" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"/>
-    <path d="M92 112H210" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"/>
-    <path d="M920 248H1108" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"/>
-    <path d="M996 272H1108" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"/>
-    <path d="M164 287L245 206L310 271L396 185" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M820 89L895 164L970 89L1045 164" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <g opacity="0.55">
+    <circle cx="205" cy="92" r="2.5" fill="#FFFFFF"/>
+    <circle cx="315" cy="255" r="2" fill="#FFFFFF"/>
+    <circle cx="884" cy="92" r="2.5" fill="#FFFFFF"/>
+    <circle cx="1008" cy="248" r="2" fill="#FFFFFF"/>
+    <circle cx="1115" cy="145" r="2" fill="#FFFFFF"/>
+    <circle cx="91" cy="212" r="2" fill="#FFFFFF"/>
+    <circle cx="742" cy="283" r="1.8" fill="#FFFFFF"/>
+    <circle cx="482" cy="76" r="1.8" fill="#FFFFFF"/>
   </g>
 
-  <g opacity="0.18">
-    <circle cx="157" cy="82" r="42" stroke="#FFFFFF" stroke-width="3"/>
-    <circle cx="1041" cy="92" r="58" stroke="#FFFFFF" stroke-width="3"/>
-    <rect x="93" y="232" width="94" height="94" rx="22" stroke="#FFFFFF" stroke-width="3"/>
-    <rect x="1004" y="226" width="94" height="94" rx="22" stroke="#FFFFFF" stroke-width="3"/>
+  <g opacity="0.25">
+    <path d="M116 256C241 123 421 73 600 78C779 83 949 143 1082 247" stroke="#FFFFFF" stroke-width="1.6" stroke-linecap="round"/>
+    <path d="M167 104C300 199 438 242 589 238C751 234 894 180 1047 83" stroke="#FFFFFF" stroke-width="1.3" stroke-linecap="round"/>
+    <ellipse cx="600" cy="181" rx="438" ry="118" stroke="#FFFFFF" stroke-opacity="0.35" stroke-width="1.5"/>
   </g>
 
-  <g filter="url(#nameGlow)">
-    <ellipse cx="600" cy="158" rx="300" ry="78" fill="url(#lightBeam)" opacity="0.9"/>
+  <g opacity="0.42">
+    <circle cx="166" cy="104" r="34" stroke="#FFFFFF" stroke-width="3"/>
+    <circle cx="1032" cy="102" r="48" stroke="#FFFFFF" stroke-width="3"/>
+    <circle cx="1032" cy="102" r="71" stroke="#FFFFFF" stroke-opacity="0.18" stroke-width="2"/>
+    <path d="M126 104H78" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"/>
+    <path d="M206 104H270" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"/>
+    <path d="M984 102H914" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"/>
+    <path d="M1080 102H1128" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"/>
   </g>
 
-  <path d="M348 80H852" stroke="url(#topLine)" stroke-width="2" stroke-linecap="round" opacity="0.75"/>
-  <path d="M386 253H814" stroke="url(#bottomLine)" stroke-width="2" stroke-linecap="round" opacity="0.75"/>
+  <g filter="url(#cosmicGlow)">
+    <ellipse cx="600" cy="153" rx="300" ry="78" fill="url(#lightBeam)" opacity="0.95"/>
+  </g>
 
-  <text x="600" y="175" text-anchor="middle"
+  <text x="600" y="164" text-anchor="middle"
         font-family="Impact, Haettenschweiler, 'Arial Black', Inter, sans-serif"
-        font-size="92" font-weight="900" fill="#FAFAFA" letter-spacing="5"
-        stroke="#111111" stroke-width="2" paint-order="stroke">
+        font-size="88" font-weight="900" fill="#FFFFFF" letter-spacing="5"
+        stroke="#0B0D11" stroke-width="2" paint-order="stroke">
     AFREEN TAHIR
   </text>
 
-  <text x="600" y="222" text-anchor="middle"
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="800" letter-spacing="1.4">
+    <rect x="258" y="192" width="184" height="34" rx="17" fill="#F4F4F4"/>
+    <text x="350" y="215" text-anchor="middle" fill="#080A0D">DATA ANALYTICS</text>
+    <rect x="462" y="192" width="202" height="34" rx="17" fill="#1A1D23" stroke="#F4F4F4" stroke-opacity="0.38"/>
+    <text x="563" y="215" text-anchor="middle" fill="#F4F4F4">MARKETING STRATEGY</text>
+    <rect x="684" y="192" width="228" height="34" rx="17" fill="#F4F4F4"/>
+    <text x="798" y="215" text-anchor="middle" fill="#080A0D">SOFTWARE ENGINEERING</text>
+  </g>
+
+  <rect x="430" y="255" width="340" height="42" rx="21" fill="#F4F4F4"/>
+  <text x="600" y="282" text-anchor="middle"
         font-family="Inter, Segoe UI, Arial, sans-serif"
-        font-size="23" font-weight="700" fill="#C9CDD3" letter-spacing="3">
-    BUSINESS DATA ANALYTICS  /  MARKETING STRATEGY  /  SOFTWARE ENGINEERING
+        font-size="17" font-weight="900" fill="#080A0D" letter-spacing="2">
+    BUILDING USEFUL SYSTEMS
   </text>
 
-  <g>
-    <rect x="424" y="260" width="352" height="42" rx="21" fill="#F4F4F4"/>
-    <text x="600" y="287" text-anchor="middle"
-          font-family="Inter, Segoe UI, Arial, sans-serif"
-          font-size="17" font-weight="900" fill="#080A0D" letter-spacing="2">
-      BUILDING USEFUL SYSTEMS
-    </text>
-  </g>
-
-  <g opacity="0.55">
-    <path d="M296 124L312 157L348 162L322 187L328 222L296 205L264 222L270 187L244 162L280 157L296 124Z" fill="#FFFFFF"/>
-    <path d="M904 122L916 147L944 151L924 170L929 198L904 185L879 198L884 170L864 151L892 147L904 122Z" fill="#FFFFFF"/>
-  </g>
-
   <defs>
-    <radialGradient id="lightBeam" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(600 158) scale(306 84)">
+    <radialGradient id="lightBeam" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(600 153) scale(300 78)">
       <stop stop-color="#FFFFFF" stop-opacity="0.95"/>
-      <stop offset="0.28" stop-color="#D7DAE2" stop-opacity="0.48"/>
-      <stop offset="0.64" stop-color="#8B9099" stop-opacity="0.16"/>
-      <stop offset="1" stop-color="#080A0D" stop-opacity="0"/>
+      <stop offset="0.32" stop-color="#E6E7EA" stop-opacity="0.5"/>
+      <stop offset="0.7" stop-color="#7D838C" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#07090D" stop-opacity="0"/>
     </radialGradient>
-    <linearGradient id="topLine" x1="348" y1="80" x2="852" y2="80" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#080A0D"/>
-      <stop offset="0.5" stop-color="#FFFFFF"/>
-      <stop offset="1" stop-color="#080A0D"/>
-    </linearGradient>
-    <linearGradient id="bottomLine" x1="386" y1="253" x2="814" y2="253" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#080A0D"/>
-      <stop offset="0.5" stop-color="#FFFFFF"/>
-      <stop offset="1" stop-color="#080A0D"/>
-    </linearGradient>
-    <filter id="nameGlow" x="230" y="32" width="740" height="252" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+    <filter id="cosmicGlow" x="230" y="30" width="740" height="246" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
       <feGaussianBlur stdDeviation="18"/>
     </filter>
   </defs>

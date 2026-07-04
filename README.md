@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <b>Business Development</b> &nbsp;/&nbsp;
-  <b>Marketing Strategy</b> &nbsp;/&nbsp;
-  <b>Data Analytics</b> &nbsp;/&nbsp;
-  <b>Software Engineering</b>
+  <code>Business Development</code>
+  <code>Marketing Strategy</code>
+  <code>Data Analytics</code>
+  <code>Software Engineering</code>
 </p>
 
 <p align="center">
