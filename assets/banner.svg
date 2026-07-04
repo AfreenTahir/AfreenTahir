@@ -40,13 +40,13 @@
     AFREEN TAHIR
   </text>
 
-  <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="800" letter-spacing="1.4">
-    <rect x="258" y="192" width="184" height="34" rx="17" fill="#F4F4F4"/>
-    <text x="350" y="215" text-anchor="middle" fill="#080A0D">DATA ANALYTICS</text>
-    <rect x="462" y="192" width="202" height="34" rx="17" fill="#1A1D23" stroke="#F4F4F4" stroke-opacity="0.38"/>
-    <text x="563" y="215" text-anchor="middle" fill="#F4F4F4">MARKETING STRATEGY</text>
-    <rect x="684" y="192" width="228" height="34" rx="17" fill="#F4F4F4"/>
-    <text x="798" y="215" text-anchor="middle" fill="#080A0D">SOFTWARE ENGINEERING</text>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="900" letter-spacing="1">
+    <rect x="214" y="192" width="196" height="36" rx="18" fill="#F4F4F4"/>
+    <text x="312" y="216" text-anchor="middle" fill="#080A0D">DATA ANALYTICS</text>
+    <rect x="431" y="192" width="232" height="36" rx="18" fill="#1A1D23" stroke="#F4F4F4" stroke-opacity="0.46"/>
+    <text x="547" y="216" text-anchor="middle" fill="#F4F4F4">MARKETING STRATEGY</text>
+    <rect x="684" y="192" width="302" height="36" rx="18" fill="#F4F4F4"/>
+    <text x="835" y="216" text-anchor="middle" fill="#080A0D">SOFTWARE ENGINEERING</text>
   </g>
 
   <rect x="430" y="255" width="340" height="42" rx="21" fill="#F4F4F4"/>
