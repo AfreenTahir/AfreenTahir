@@ -10,11 +10,11 @@
 </p>
 
 <p align="center">
-  <a href="mailto:afreentahir938@gmail.com">Email</a>
-  &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/afreen-tahir-989483404/">LinkedIn</a>
-  &nbsp;|&nbsp;
-  <a href="https://github.com/AfreenTahir">GitHub</a>
+  <a href="mailto:afreentahir938@gmail.com"><img src="assets/icon-email.svg" alt="Email" width="42" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/afreen-tahir-989483404/"><img src="assets/icon-linkedin.svg" alt="LinkedIn" width="42" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/AfreenTahir"><img src="assets/icon-github.svg" alt="GitHub" width="42" /></a>
 </p>
 
 <p align="center">
@@ -40,10 +40,10 @@ I care about clean systems: clear strategy, useful products, thoughtful interfac
   <img src="assets/section-work.svg" alt="Current Work" width="76%" />
 </p>
 
-- Building **Notes Merger**, a desktop app that turns PDFs and screenshots into study notes.
-- Improving my software engineering and product portfolio.
-- Exploring data-informed marketing, business growth, and automation.
-- Designing simple tools that feel professional and easy to use.
+- **Notes Merger**
+- Portfolio systems
+- Data-led growth
+- Minimal product design
 
 <p align="center">
   <img src="assets/section-toolkit.svg" alt="Toolkit" width="68%" />
@@ -68,7 +68,9 @@ I care about clean systems: clear strategy, useful products, thoughtful interfac
 </p>
 
 <p align="center">
-  <a href="mailto:afreentahir938@gmail.com"><b>afreentahir938@gmail.com</b></a>
-  <br />
-  <a href="https://www.linkedin.com/in/afreen-tahir-989483404/"><b>LinkedIn / Afreen Tahir</b></a>
+  <a href="mailto:afreentahir938@gmail.com"><img src="assets/icon-email.svg" alt="Email" width="40" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/afreen-tahir-989483404/"><img src="assets/icon-linkedin.svg" alt="LinkedIn" width="40" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/AfreenTahir"><img src="assets/icon-github.svg" alt="GitHub" width="40" /></a>
 </p>
