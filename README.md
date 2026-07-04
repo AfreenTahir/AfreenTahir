@@ -18,6 +18,13 @@
 </p>
 
 <p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AfreenTahir.AfreenTahir&left_color=111111&right_color=6b7280&left_text=Visitors" alt="Visitor count" />
+  <img src="https://komarev.com/ghpvc/?username=AfreenTahir&label=Profile%20Views&color=6b7280&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/AfreenTahir?label=Followers&style=flat&color=6b7280&labelColor=111111" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/commit-activity/t/AfreenTahir/AfreenTahir?label=Profile%20Commits&style=flat&color=6b7280&labelColor=111111" alt="Profile commits" />
+</p>
+
+<p align="center">
   <img src="assets/section-about.svg" alt="About" width="76%" />
 </p>
 
