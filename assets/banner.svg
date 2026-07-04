@@ -1,35 +1,21 @@
 <svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1200" height="360" rx="42" fill="#FFF8FB"/>
-  <circle cx="106" cy="78" r="44" fill="#DDF7F1"/>
-  <circle cx="1088" cy="76" r="52" fill="#FDECCF"/>
-  <circle cx="1008" cy="278" r="38" fill="#E8E3FF"/>
-  <circle cx="198" cy="284" r="35" fill="#DCEEFF"/>
-
-  <path d="M93 231C78 231 66 219 66 204C66 189 78 177 93 177C100 157 119 144 141 144C167 144 189 162 195 186C213 188 227 203 227 221C227 241 211 257 191 257H95" stroke="#88C9BF" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M1001 110C987 110 976 99 976 85C976 71 987 60 1001 60C1008 42 1025 30 1045 30C1069 30 1089 47 1094 69C1110 71 1123 85 1123 102C1123 120 1108 135 1090 135H1003" stroke="#B5A7F5" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
-
-  <path d="M304 81L316 108L345 111L323 130L329 159L304 144L279 159L285 130L263 111L292 108L304 81Z" fill="#FFD6E8"/>
-  <path d="M899 196L908 216L930 219L913 233L918 255L899 244L880 255L885 233L868 219L890 216L899 196Z" fill="#BDEDE5"/>
-  <path d="M157 93C157 93 176 82 190 96C204 110 191 129 191 129" stroke="#F4A7C7" stroke-width="8" stroke-linecap="round"/>
-  <path d="M1052 213C1052 213 1071 202 1085 216C1099 230 1086 249 1086 249" stroke="#8BBDF2" stroke-width="8" stroke-linecap="round"/>
-
-  <g filter="url(#softShadow)">
-    <text x="600" y="167" text-anchor="middle" font-family="Trebuchet MS, Comic Sans MS, Arial Rounded MT Bold, sans-serif" font-size="86" font-weight="900" fill="#5B4B8A" stroke="#FFFFFF" stroke-width="13" paint-order="stroke">
-      Afreen Tahir
-    </text>
-  </g>
-  <text x="600" y="218" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="700" fill="#6E7783">
-    Business Data Analytics · Marketing Strategy · Software Engineering
+  <rect width="1200" height="360" rx="34" fill="#0D0D0D"/>
+  <rect x="32" y="32" width="1136" height="296" rx="24" stroke="#F4F4F4" stroke-width="2"/>
+  <path d="M95 90H260" stroke="#F4F4F4" stroke-width="8" stroke-linecap="round"/>
+  <path d="M940 270H1105" stroke="#F4F4F4" stroke-width="8" stroke-linecap="round"/>
+  <path d="M95 113H190" stroke="#8F8F8F" stroke-width="8" stroke-linecap="round"/>
+  <path d="M1010 247H1105" stroke="#8F8F8F" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="981" cy="100" r="20" stroke="#F4F4F4" stroke-width="6"/>
+  <circle cx="1039" cy="100" r="20" stroke="#8F8F8F" stroke-width="6"/>
+  <circle cx="1097" cy="100" r="20" stroke="#F4F4F4" stroke-width="6"/>
+  <text x="600" y="170" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="84" font-weight="700" fill="#FFFFFF" letter-spacing="2">
+    AFREEN TAHIR
   </text>
-
-  <rect x="389" y="253" width="422" height="48" rx="24" fill="#FFFFFF" stroke="#F1CFE0" stroke-width="3"/>
-  <text x="600" y="285" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="21" font-weight="700" fill="#7E6DA8">
-    building soft, smart, data-informed things
+  <text x="600" y="222" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="25" font-weight="600" fill="#BDBDBD" letter-spacing="4">
+    DATA  .  GROWTH  .  SOFTWARE
   </text>
-
-  <defs>
-    <filter id="softShadow" x="170" y="55" width="860" height="140" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-      <feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#D7C9F6" flood-opacity="0.45"/>
-    </filter>
-  </defs>
+  <rect x="430" y="254" width="340" height="42" rx="21" fill="#F4F4F4"/>
+  <text x="600" y="282" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="800" fill="#0D0D0D" letter-spacing="2">
+    BUILDING USEFUL SYSTEMS
+  </text>
 </svg>

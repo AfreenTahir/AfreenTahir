@@ -1,74 +1,74 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Afreen Tahir pastel profile banner" width="100%" />
+  <img src="assets/banner.svg" alt="Afreen Tahir profile banner" width="100%" />
 </p>
 
 <p align="center">
-  <b>Business Development</b> &middot;
-  <b>Marketing Strategy</b> &middot;
-  <b>Data Analytics</b> &middot;
+  <b>Business Development</b> &nbsp;/&nbsp;
+  <b>Marketing Strategy</b> &nbsp;/&nbsp;
+  <b>Data Analytics</b> &nbsp;/&nbsp;
   <b>Software Engineering</b>
 </p>
 
 <p align="center">
   <a href="mailto:afreentahir938@gmail.com">Email</a>
-  &middot;
+  &nbsp;|&nbsp;
   <a href="https://www.linkedin.com/in/afreen-tahir-989483404/">LinkedIn</a>
-  &middot;
+  &nbsp;|&nbsp;
   <a href="https://github.com/AfreenTahir">GitHub</a>
 </p>
 
 <p align="center">
-  <img src="assets/pastel-divider.svg" alt="" width="80%" />
+  <img src="assets/section-about.svg" alt="About" width="76%" />
 </p>
+
+I build at the intersection of **growth**, **analytics**, and **software**. My work is about making messy problems easier to understand, measure, and act on.
+
+I care about clean systems: clear strategy, useful products, thoughtful interfaces, and decisions backed by data.
 
 <p align="center">
-  <img src="assets/heading-about.svg" alt="About Me" width="72%" />
+  <img src="assets/section-focus.svg" alt="Focus" width="76%" />
 </p>
 
-I work at the intersection of growth, analytics, and product thinking. I enjoy turning messy ideas into clear strategies, useful tools, and simple user experiences backed by data.
-
-My style is calm, organized, and practical: understand the problem, find the pattern, build the next useful step.
-
-<p align="center">
-  <img src="assets/heading-focus.svg" alt="Professional Focus" width="76%" />
-</p>
-
-| Focus Area | What I Bring |
+| Discipline | What I do |
 |---|---|
-| Business Development | Market research, outreach, positioning, and growth opportunities |
-| Marketing Strategy | Campaign planning, user journeys, content direction, and brand thinking |
-| Data Analytics | Pattern finding, reporting, insights, and clearer decision-making |
-| Software Projects | Clean interfaces, useful automation, and practical desktop/web apps |
+| **Business Development** | Research markets, identify opportunities, shape outreach, and support growth |
+| **Marketing Strategy** | Plan campaigns, clarify positioning, and design better user journeys |
+| **Data Analytics** | Turn raw information into patterns, reports, and practical insights |
+| **Software Projects** | Build useful tools, automations, and clean desktop/web experiences |
 
 <p align="center">
-  <img src="assets/heading-work.svg" alt="Current Work" width="74%" />
+  <img src="assets/section-work.svg" alt="Current Work" width="76%" />
 </p>
 
-- Building student-friendly productivity tools, including **Notes Merger**.
-- Strengthening my software engineering and product portfolio.
-- Exploring how data can make marketing and business decisions sharper.
-- Creating minimal, polished user experiences that feel easy to use.
+- Building **Notes Merger**, a desktop app that turns PDFs and screenshots into study notes.
+- Improving my software engineering and product portfolio.
+- Exploring data-informed marketing, business growth, and automation.
+- Designing simple tools that feel professional and easy to use.
 
 <p align="center">
-  <img src="assets/tiny-doodles.svg" alt="minimal pastel doodles" width="85%" />
+  <img src="assets/section-toolkit.svg" alt="Toolkit" width="68%" />
 </p>
 
 <p align="center">
-  <img src="assets/heading-toolkit.svg" alt="Toolkit" width="62%" />
+  <code>Business Development</code>
+  <code>Marketing Strategy</code>
+  <code>Data Analytics</code>
+  <code>Python</code>
+  <code>C++</code>
+  <code>JavaScript</code>
+  <code>Rust</code>
+  <code>Tauri</code>
+  <code>GitHub</code>
 </p>
 
-`Business Development` &middot; `Marketing Strategy` &middot; `Data Analytics` &middot; `Python` &middot; `C++` &middot; `JavaScript` &middot; `Rust` &middot; `Tauri` &middot; `GitHub`
+---
 
 <p align="center">
-  <img src="assets/heading-contact.svg" alt="Contact" width="60%" />
+  <b>Open to thoughtful projects, useful systems, and work that turns ideas into measurable outcomes.</b>
 </p>
 
 <p align="center">
   <a href="mailto:afreentahir938@gmail.com"><b>afreentahir938@gmail.com</b></a>
   <br />
   <a href="https://www.linkedin.com/in/afreen-tahir-989483404/"><b>LinkedIn / Afreen Tahir</b></a>
-</p>
-
-<p align="center">
-  <b>Thanks for visiting my GitHub profile.</b>
 </p>

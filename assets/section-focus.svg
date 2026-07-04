@@ -1,0 +1,6 @@
+<svg width="900" height="68" viewBox="0 0 900 68" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="305" y="13" width="290" height="42" rx="21" fill="#111111"/>
+  <text x="450" y="44" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="900" fill="#FFFFFF" letter-spacing="3">FOCUS</text>
+  <path d="M70 34H245" stroke="#8A8A8A" stroke-width="3" stroke-linecap="round"/>
+  <path d="M655 34H830" stroke="#8A8A8A" stroke-width="3" stroke-linecap="round"/>
+</svg>
